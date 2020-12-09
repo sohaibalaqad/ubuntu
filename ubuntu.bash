@@ -1,1 +1,1 @@
-
+chmod +rwx code.py
